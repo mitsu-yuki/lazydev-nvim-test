@@ -1,0 +1,5 @@
+[env]
+NVIM_APPNAME = "lazy-nvim-test"
+
+[tools]
+neovim = "0.10.2"
